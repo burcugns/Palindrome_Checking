@@ -5,7 +5,7 @@ This project is a simple palindrome checker built with **HTML**, **CSS**, and **
 ---
 
 ## SCREENSHOT
-
+<img src="screenshot.png" alt="Palindrome Screenshot" width="600" />
 
 ---
 
